@@ -1,18 +1,38 @@
-## Hi everyone 👋 I'm Phong Xiao Wei!
-Currently studying Bachelor of Computer Science in Information Systems at University of Malaya
+## Hi there 👋 I'm Phong Xiao Wei!
+
+🎓 **Year 2 Computer Science Student**
+
+💻 **Bachelor of Computer Science (Information Systems)**
+
+📍 **University of Malaya**
+
+## Skills
+
+**Languages:** Java, Python
+
+**Web:** HTML, JavaScript
+
+**Tools:** GitHub, VS Code, Netbeans
+
+## Currently Learning
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Information Systems
+* Cisco Networking
+* Computer System Architecture & Organisation
+
+## Goals
+
+* Improve my programming and problem-solving skills
+* Build more practical projects
+* Gain industry experience through internships
+* Continue learning and exploring new technologies
+
+## Reach Me Online!
+
+💼 **LinkedIn:** https://www.linkedin.com/in/xiao-wei-phong-128173436
+
+📧 **Email:** xiaoweiphong@gmail.com
 
 
-<!--
-**Xiaowei-419/Xiaowei-419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
