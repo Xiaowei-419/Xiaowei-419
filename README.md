@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi everyone 👋 I'm Phong Xiao Wei!
+Currently studying Bachelor of Computer Science in Information Systems at University of Malaya
+
 
 <!--
 **Xiaowei-419/Xiaowei-419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
